@@ -1,15 +1,6 @@
-# Flask web framework
 Flask==2.3.3
-
-# Pandas and NumPy for data handling
 numpy==1.26.0
 pandas==2.0.3
-
-# Machine Learning
 scikit-learn==1.3.0
-
-# Graphs for route mapping
 networkx==3.1
-
-# Production server
 gunicorn==21.2.0
